@@ -1,5 +1,3 @@
-//8b5f2cac1e672c6bffffdae63efb52e8dec403f9
-//https://dl.dropboxusercontent.com/s/e67p5dgq7a64szd/main.js
 $(function(){
 
 	//$('#tmpdump').text('stuff');
