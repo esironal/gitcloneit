@@ -1,6 +1,6 @@
 $(function(){
 
-	//$('#tmpdump').text('stuff');
+	$('#tmpdump').val('');
 
 	var GithubUsername, GithubToken;
 
