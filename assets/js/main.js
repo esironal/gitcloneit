@@ -79,7 +79,8 @@ $(function(){
 		//go get info and clone it
 		$.ajax({
 		
-			url: githubjs
+			url: githubjs,
+			dataType: 'jsonp',
 		
 		}).success(function(data){
 		
